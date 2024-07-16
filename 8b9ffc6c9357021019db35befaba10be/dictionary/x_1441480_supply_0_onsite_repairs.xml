@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="747545649397021019db35befaba10fd" extends="task" label="Onsite Repairs" max_length="40" name="x_1441480_supply_0_onsite_repairs" type="collection">
+        <element choice="1" label="G/L Code " mandatory="true" max_length="40" name="g_l_code" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Tractor Repair 610106" sequence="1" value="Tractor Repair 610106"/>
+                <element inactive_on_update="false" label="Equip Repair Axillary 610100" sequence="2" value="Equip Repair Axillary 610100"/>
+                <element inactive_on_update="false" label="Tires 610103" sequence="3" value="Tires 610103"/>
+                <element inactive_on_update="false" label="Preventative Maintenance 610108" sequence="4" value="Preventative Maintenance 610108"/>
+                <element inactive_on_update="false" label="3rd Party Maintenance 610107" sequence="5" value="3rd Party Maintenance 610107"/>
+                <element inactive_on_update="false" label="Blender/Pump Repair 610105" sequence="0" value="Blender/Pump Repair 610105"/>
+            </choice>
+        </element>
+        <element label="Frac Spread Identifier " mandatory="true" max_length="32" name="frac_spread_identifier" reference="sys_user" type="reference"/>
+        <element label="Location/Region " max_length="32" name="location_region" reference="cmn_location" type="reference"/>
+        <element label="Date/Time of Service " mandatory="true" max_length="255" name="date_time_of_service" type="calendar_date_time"/>
+        <element choice="1" label="Vendor " mandatory="true" max_length="40" name="vendor" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="choice 2" sequence="1" value="choice 2"/>
+                <element inactive_on_update="false" label="choice 3" sequence="2" value="choice 3"/>
+                <element inactive_on_update="false" label="choice 4" sequence="3" value="choice 4"/>
+                <element inactive_on_update="false" label="choice 1" sequence="0" value="choice 1"/>
+            </choice>
+        </element>
+        <element label="Estimate " mandatory="true" max_length="40" name="estimate" type="string"/>
+        <element label="Date Sent to A/P " max_length="255" name="date_sent_to_a_p" type="calendar_date_time"/>
+        <element label="Actual Invoice date " max_length="255" name="actual_invoice_date" type="calendar_date_time"/>
+        <element label="Unit #" mandatory="true" max_length="32" name="unit" reference="sys_user" type="reference"/>
+        <element label="Invoice #" max_length="40" name="invoice" type="string"/>
+        <element label="Service Requested " mandatory="true" max_length="40" name="service_requested" type="string"/>
+        <element label="Date Posted in SAP " max_length="255" name="date_posted_in_sap" type="calendar_date_time"/>
+        <element label="Requested by " max_length="40" name="requested_by" type="string"/>
+        <element choice="1" label="Basin Location " mandatory="true" max_length="40" name="basin_location" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="basin 1" sequence="0" value="basin 1"/>
+                <element inactive_on_update="false" label="basin 3" sequence="2" value="basin 3"/>
+                <element inactive_on_update="false" label="basin 4" sequence="3" value="basin 4"/>
+                <element inactive_on_update="false" label="basin 2" sequence="1" value="basin 2"/>
+            </choice>
+        </element>
+        <element label="Invoice Amount " max_length="40" name="invoice_amount" type="string"/>
+        <element label="Requestor " mandatory="true" max_length="32" name="requestor" reference="sys_user" type="reference"/>
+        <element label="Additional Comments " max_length="40" name="additional_comments" type="string"/>
+        <element label="Approval Workflow " max_length="40" name="approval_workflow" type="string"/>
+    </element>
+</database>

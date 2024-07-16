@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="Service Center">770bdde0931b021019db35befaba1034</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-06 18:21:28</sys_created_on>
+        <sys_id>0ff99a24935f021019db35befaba10d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>center 3</sys_name>
+        <sys_package display_value="supply Chain" source="x_1441480_supply_0">8b9ffc6c9357021019db35befaba10be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="supply Chain">8b9ffc6c9357021019db35befaba10be</sys_scope>
+        <sys_update_name>question_choice_0ff99a24935f021019db35befaba10d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-06 18:21:28</sys_updated_on>
+        <text>center 3</text>
+        <value>center_3</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=0ff99a24935f021019db35befaba10d5"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Onsite Repairs">9f1c2e2c939f021019db35befaba108a</sc_cat_item>
+        <sc_category display_value="Supply Chain">8463916893d7021019db35befaba1046</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-06 19:55:30</sys_created_on>
+        <sys_id>d88f2e6093df021019db35befaba1028</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supply Chain.Onsite Repairs</sys_name>
+        <sys_package display_value="supply Chain" source="x_1441480_supply_0">8b9ffc6c9357021019db35befaba10be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="supply Chain">8b9ffc6c9357021019db35befaba10be</sys_scope>
+        <sys_update_name>sc_cat_item_category_d88f2e6093df021019db35befaba1028</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-06 19:55:30</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

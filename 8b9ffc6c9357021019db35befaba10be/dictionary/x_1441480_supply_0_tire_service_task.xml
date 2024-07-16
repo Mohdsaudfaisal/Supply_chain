@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="82f55bab9353021019db35befaba1081" extends="task" label="Tire Service task" max_length="40" name="x_1441480_supply_0_tire_service_task" type="collection">
+        <element choice="1" label="Action Status " max_length="40" name="action_status" type="choice">
+            <choice/>
+        </element>
+        <element label="parent number " max_length="40" name="parent_numbe0" type="string"/>
+        <element label="Bridgestone Invoice # " max_length="40" name="bridgestone_invoice" type="string"/>
+        <element label="Action Summary " max_length="40" name="action_summary" type="string"/>
+        <element label="Vendor Assigned to " max_length="32" name="vendor_assigned_to" reference="sys_user" type="reference"/>
+        <element label="Target Date " max_length="255" name="target_date" type="calendar_date_time"/>
+        <element label="parent number " max_length="40" name="parent_number" type="string"/>
+        <element label="Close Date " max_length="255" name="close_date" type="calendar_date_time"/>
+    </element>
+</database>

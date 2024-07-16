@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="rentals request">c2a0cb689313421019db35befaba1082</sc_cat_item>
+        <sc_category display_value="Supply Chain">8463916893d7021019db35befaba1046</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-06 21:12:22</sys_created_on>
+        <sys_id>921187a89313421019db35befaba1000</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supply Chain.rentals request</sys_name>
+        <sys_package display_value="supply Chain" source="x_1441480_supply_0">8b9ffc6c9357021019db35befaba10be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="supply Chain">8b9ffc6c9357021019db35befaba10be</sys_scope>
+        <sys_update_name>sc_cat_item_category_921187a89313421019db35befaba1000</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-06 21:12:22</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="supply Chain">8b9ffc6c9357021019db35befaba10be</application>
+        <file_path/>
+        <instance_id>7e7b9a9ddbd2755c02022a59139619d7</instance_id>
+        <instance_name>dev202537</instance_name>
+        <name>sc_cat_item_category_921187a89313421019db35befaba1000</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="rentals request">c2a0cb689313421019db35befaba1082</sc_cat_item><sc_category display_value="Supply Chain">8463916893d7021019db35befaba1046</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-06 21:12:22</sys_created_on><sys_id>921187a89313421019db35befaba1000</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Supply Chain.rentals request</sys_name><sys_package display_value="supply Chain" source="x_1441480_supply_0">8b9ffc6c9357021019db35befaba10be</sys_package><sys_policy/><sys_scope display_value="supply Chain">8b9ffc6c9357021019db35befaba10be</sys_scope><sys_update_name>sc_cat_item_category_921187a89313421019db35befaba1000</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-06 21:12:22</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-117930021</payload_hash>
+        <record_name>Supply Chain.rentals request</record_name>
+        <reverted_from/>
+        <source>439ffc6c9357021019db35befaba10c3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-06 21:12:22</sys_created_on>
+        <sys_id>961187a89313421019db35befaba1004</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19089e40dcd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-06 21:12:22</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>d61187a8f9134210b5953460791e6903</update_guid>
+        <update_guid_history>d61187a8f9134210b5953460791e6903:-117930021</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Supply Chain.rentals request">d6510fa89313421019db35befaba105f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-06 21:13:27</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>54af8e38f55f45b69fc52a5d9fc3d1a4</sys_id>
+        <sys_metadata>921187a89313421019db35befaba1000</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supply Chain.rentals request</sys_name>
+        <sys_package display_value="supply Chain" source="x_1441480_supply_0">8b9ffc6c9357021019db35befaba10be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="supply Chain">8b9ffc6c9357021019db35befaba10be</sys_scope>
+        <sys_scope_delete display_value="">51215deda169481c9fa701c8d926ee90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_921187a89313421019db35befaba1000</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_921187a89313421019db35befaba1000">961187a89313421019db35befaba1004</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-06 21:13:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

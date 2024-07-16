@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1441480_supply_0_rentals">x_1441480_supply_0_rentals</category>
+        <maximum_digits>7</maximum_digits>
+        <number>10000</number>
+        <prefix>REN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-06 12:13:00</sys_created_on>
+        <sys_id>99a5c9649397021019db35befaba10fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REN</sys_name>
+        <sys_package display_value="supply Chain" source="x_1441480_supply_0">8b9ffc6c9357021019db35befaba10be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="supply Chain">8b9ffc6c9357021019db35befaba10be</sys_scope>
+        <sys_update_name>sys_number_99a5c9649397021019db35befaba10fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-06 12:13:00</sys_updated_on>
+    </sys_number>
+</record_update>

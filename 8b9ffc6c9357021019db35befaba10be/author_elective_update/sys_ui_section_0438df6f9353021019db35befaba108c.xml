@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="0438df6f9353021019db35befaba108c" sys_domain="global" table="x_1441480_supply_0_tire_service_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-16 06:35:02</sys_created_on>
+            <sys_id>9838df6f9353021019db35befaba10a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441480_supply_0_tire_service_task" sys_domain="global" view="Default view">0438df6f9353021019db35befaba108c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-16 06:35:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-16 06:35:02</sys_created_on>
+            <sys_id>1038df6f9353021019db35befaba10a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441480_supply_0_tire_service_task" sys_domain="global" view="Default view">0438df6f9353021019db35befaba108c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-16 06:35:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-16 06:35:02</sys_created_on>
+            <sys_id>9438df6f9353021019db35befaba10a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441480_supply_0_tire_service_task" sys_domain="global" view="Default view">0438df6f9353021019db35befaba108c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-16 06:35:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1441480_supply_0_tire_service_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-16 06:35:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0438df6f9353021019db35befaba108c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1441480_supply_0_tire_service_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="supply Chain" source="x_1441480_supply_0">8b9ffc6c9357021019db35befaba10be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="supply Chain">8b9ffc6c9357021019db35befaba10be</sys_scope>
+            <sys_update_name>sys_ui_section_0438df6f9353021019db35befaba108c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-16 06:35:01</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="supply Chain">8b9ffc6c9357021019db35befaba10be</application>
+        <file_path/>
+        <instance_id>7e7b9a9ddbd2755c02022a59139619d7</instance_id>
+        <instance_name>dev202537</instance_name>
+        <name>sys_ui_section_0438df6f9353021019db35befaba108c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="0438df6f9353021019db35befaba108c" sys_domain="global" table="x_1441480_supply_0_tire_service_task" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-16 06:35:02</sys_created_on><sys_id>9838df6f9353021019db35befaba10a2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441480_supply_0_tire_service_task" sys_domain="global" view="Default view">0438df6f9353021019db35befaba108c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-16 06:35:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-16 06:35:02</sys_created_on><sys_id>1038df6f9353021019db35befaba10a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441480_supply_0_tire_service_task" sys_domain="global" view="Default view">0438df6f9353021019db35befaba108c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-16 06:35:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-16 06:35:02</sys_created_on><sys_id>9438df6f9353021019db35befaba10a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1441480_supply_0_tire_service_task" sys_domain="global" view="Default view">0438df6f9353021019db35befaba108c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-16 06:35:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_1441480_supply_0_tire_service_task</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-16 06:35:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0438df6f9353021019db35befaba108c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1441480_supply_0_tire_service_task</sys_name><sys_overrides/><sys_package display_value="supply Chain" source="x_1441480_supply_0">8b9ffc6c9357021019db35befaba10be</sys_package><sys_policy/><sys_scope display_value="supply Chain">8b9ffc6c9357021019db35befaba10be</sys_scope><sys_update_name>sys_ui_section_0438df6f9353021019db35befaba108c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-16 06:35:01</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1076843655</payload_hash>
+        <record_name>Tire Service task</record_name>
+        <reverted_from/>
+        <source>439ffc6c9357021019db35befaba10c3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 06:35:02</sys_created_on>
+        <sys_id>9438df6f9353021019db35befaba10a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190ba406a750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 06:35:02</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>1c38df6faf530210feeab26608d43da4</update_guid>
+        <update_guid_history>1c38df6faf530210feeab26608d43da4:1076843655</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 06:35:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>7f657077a25e400099266eedd17383c4</sys_id>
+        <sys_metadata>0438df6f9353021019db35befaba108c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="supply Chain" source="x_1441480_supply_0">8b9ffc6c9357021019db35befaba10be</sys_package>
+        <sys_parent display_value="Tire Service task">82f55bab9353021019db35befaba1081</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="supply Chain">8b9ffc6c9357021019db35befaba10be</sys_scope>
+        <sys_scope_delete display_value="">51215deda169481c9fa701c8d926ee90</sys_scope_delete>
+        <sys_update_name>sys_ui_section_0438df6f9353021019db35befaba108c</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_0438df6f9353021019db35befaba108c">9438df6f9353021019db35befaba10a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 06:35:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
